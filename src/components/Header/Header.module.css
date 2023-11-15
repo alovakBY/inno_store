@@ -1,0 +1,17 @@
+.header {
+   padding: 10px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.logo {
+   font-weight: 700;
+   color: rgb(130, 0, 0);
+}
+
+.nav {
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}

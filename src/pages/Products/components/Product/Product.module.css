@@ -1,0 +1,10 @@
+.product {
+   flex: 1 0 200px;
+}
+
+.stats {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 5px;
+}
